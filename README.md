@@ -26,5 +26,5 @@ Esta es una calculadora simple desarrollada en Python utilizando la biblioteca `
 2. Descarga o clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/RamCodeZ3/Calculadora.git
+cd Calculadora
